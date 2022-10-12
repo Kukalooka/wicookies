@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
-    <name>wihtmlblock</name>
-    <displayName><![CDATA[Wi HTML Block V5]]></displayName>
-    <version><![CDATA[5.0.0]]></version>
-    <description><![CDATA[Wi HTML Block V5]]></description>
+    <name>wicookies</name>
+    <displayName><![CDATA[Wi Cookies]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Wi Cookies]]></description>
     <author><![CDATA[WEBimpuls.pl]]></author>
     <tab><![CDATA[]]></tab>
-	<confirmUninstall><![CDATA[Wi HTML Block V5]]></confirmUninstall>
+	<confirmUninstall><![CDATA[Wi Cookies]]></confirmUninstall>
     <is_configurable>1</is_configurable>
     <need_instance>1</need_instance>
 	<limited_countries></limited_countries>
